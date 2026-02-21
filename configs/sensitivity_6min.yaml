@@ -1,0 +1,6 @@
+# Sensitivity Analysis: Aggressive 6-minute threshold
+optimization:
+  p_stations: 12
+  p_vehicles: 24
+  response_threshold_min: 6.0
+  time_limit_sec: 600

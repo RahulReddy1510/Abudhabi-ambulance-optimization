@@ -1,0 +1,6 @@
+# Sensitivity Analysis: Relaxed 10-minute threshold
+optimization:
+  p_stations: 12
+  p_vehicles: 24
+  response_threshold_min: 10.0
+  time_limit_sec: 300

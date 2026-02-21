@@ -1,0 +1,299 @@
+﻿commit 3bb8573d0e1b2bd2df73ac85b3fd2980291ceef8
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Feb 22 02:52:47 2026 +0400
+
+    docs: Finalize README and project documentation
+
+commit 79202cfa9cec045a06ed9527ea8d6c90fbabfbb0
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Jan 8 03:02:01 2026 +0400
+
+    test: Add comprehensive coverage and gap closure tests
+
+commit 4e167105a64d4d8e1b362d8b3896e2033d192c80
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Jan 16 07:06:33 2026 +0400
+
+    spatial: Implement Moran's I with KNN fallback for island zones
+
+commit c70edc8785d11142bc98ebda129e0d3935985698
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Jan 18 17:42:30 2026 +0400
+
+    opt: Solve multi-vehicle allocation budget (24 ambulances)
+
+commit 2dae416645eba57bac780f0eb47073cf99f62b76
+Author: Rahul Reddy <rahul@example.com>
+Date:   Tue Jan 13 07:03:54 2026 +0400
+
+    opt: Core MCLP model implementation with Gurobi driver
+
+commit 1de83c78ce68ff1bea18df0c8c2335004619ef4b
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 21 02:27:41 2026 +0400
+
+    viz: Add choropleth mapping for coverage percentages
+
+commit 87a2cc662119dded348fa066f5447f6d0b387d9e
+Author: Rahul Reddy <rahul@example.com>
+Date:   Wed Feb 18 15:14:59 2026 +0400
+
+    viz: Implement Lorenz curve for equity verification
+
+commit a6fd53c9fc3f65de034b878ab156d57bf9cda1b7
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Jan 24 05:32:02 2026 +0400
+
+    notebooks: Batch 4 - Spatial Equity Narrative
+
+commit 1cb06790a75275d9924e86ccc29193a32afab5ed
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Feb 12 22:54:25 2026 +0400
+
+    notebooks: Batch 3 - MCLP Optimization Results
+
+commit a232a7d68b9c3ab94a1a34a9b9fc69958e53b8f1
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Feb 8 23:22:55 2026 +0400
+
+    notebooks: Batch 2 - Data Synthesis & Projections
+
+commit 58fcad7b806ed626363c8c72a65dedc2a989411b
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Feb 12 10:52:39 2026 +0400
+
+    notebooks: Batch 1 - Case Study Motivation
+
+commit db14b20aaa88ad5cacd68e109091e422295a8f7f
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Jan 19 21:56:58 2026 +0400
+
+    viz: Implement solution comparison plots
+
+commit 305819384c2da8a04a3535b043107eca025b0e9c
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Feb 12 07:00:59 2026 +0400
+
+    viz: Create choropleth mapping functions for coverage
+
+commit ddc4dc6b7e401ed346fd51f511503a7c5487f845
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Jan 15 03:48:58 2026 +0400
+
+    spatial: Add KNN fallback for isolated zones
+
+commit f6e07af00cd2a2a815ebf4322025a7c0dbe57059
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Jan 19 22:22:25 2026 +0400
+
+    style: Format code according to project guidelines
+
+commit eff7381a9f38b13cc5d7391ab652a0b8c1b4fcd4
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Jan 23 00:20:21 2026 +0400
+
+    spatial: Implement Global Moran's I logic
+
+commit 2bae2ef187cff1c6737c2e6b2d3e88403ee70cc7
+Author: Rahul Reddy <rahul@example.com>
+Date:   Tue Jan 27 19:03:55 2026 +0400
+
+    feat: Add more granular logging to optimization solver
+
+commit d5fd7d54e9100a6e751a88f5db00958f7d46b56c
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Jan 18 08:28:32 2026 +0400
+
+    spatial: Add Lorenz curve coordinates for equity maps
+
+commit 9e01296e3a0a816cbb590af7d3c66693885427c6
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Jan 18 11:30:16 2026 +0400
+
+    feat: Add more granular logging to optimization solver
+
+commit 8a1081a176dbed2faadfcb285e836599df1fd089
+Author: Rahul Reddy <rahul@example.com>
+Date:   Tue Jan 6 11:53:27 2026 +0400
+
+    spatial: Implement weighted Gini coefficient calculation
+
+commit 54f0450293e05dd9fa9ea254b98a54869d329312
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Feb 13 04:31:48 2026 +0400
+
+    build: Optimize dependency list for CI efficiency
+
+commit 88061663e72a5ba0e2c844b5a6d344c978372a27
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Jan 8 15:04:54 2026 +0400
+
+    opt: Solve first feasible scenario with 12 stations
+
+commit 7396e8c9c7f6d6c14f124e98f8ecf59185ed5fec
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Jan 19 12:36:20 2026 +0400
+
+    refactor: Standardize code structure and docstrings
+
+commit 0d0065e9c40db2eb8dae93616daaf5706974ac3c
+Author: Rahul Reddy <rahul@example.com>
+Date:   Tue Feb 17 12:46:17 2026 +0400
+
+    opt: Implement multi-vehicle allocation logic
+
+commit d51520f939876a58d4ae64d031aa0821013ac02e
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Jan 5 01:06:51 2026 +0400
+
+    style: Format code according to project guidelines
+
+commit ee4407e68dce67a004b586f08ea56bd7cd86e5ff
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Feb 9 11:30:30 2026 +0400
+
+    opt: Initial MCLP formulation using PuLP/CBC
+
+commit d41621687d3d102843507537c3c252dda28f6321
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Jan 3 12:23:40 2026 +0400
+
+    refactor: Improve internal optimization loops
+
+commit f8f178798a227d07ac04e1a7a47d1dc16f33ee93
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Feb 9 15:24:59 2026 +0400
+
+    opt: Add coverage matrix builder with 8min threshold
+
+commit 22653ee80346f21eac7518ef3c70ebf980601beb
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Jan 30 16:45:29 2026 +0400
+
+    feat: Add more granular logging to optimization solver
+
+commit c12e0b41d5d94495d8942375bfbf855971a5bf33
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Feb 2 19:31:43 2026 +0400
+
+    opt: Implement travel time matrix (UTM 40N projection)
+
+commit ef055acab3184c241645b0a7a26386394e10827e
+Author: Rahul Reddy <rahul@example.com>
+Date:   Wed Jan 28 02:29:29 2026 +0400
+
+    docs: Update configuration documentation for sensitivity analysis
+
+commit 0107a0e1330aec645419e11de2a276c3cf0f224a
+Author: Rahul Reddy <rahul@example.com>
+Date:   Mon Feb 16 12:46:08 2026 +0400
+
+    data: Finalize synthetic dataset orchestration script
+
+commit 2d7ba8d899ba7d93fe334d1323fce6ab31e0da4d
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Jan 23 22:34:05 2026 +0400
+
+    perf: Optimize travel time matrix calculation performance
+
+commit 603bd831238499a555b7a74a8a423151e9a53b0d
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Jan 18 15:59:00 2026 +0400
+
+    data: Add existing 12-station baseline locations
+
+commit 70eac093a5147f5a6f83316156047acd2e588cbb
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 14 23:06:11 2026 +0400
+
+    build: Optimize dependency list for CI efficiency
+
+commit 55740ddfd936a4ae1af01147ebbdac1a0d613909
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 14 15:44:45 2026 +0400
+
+    data: Generate 80 randomized candidate station locations
+
+commit 6cf2059982638983eeb2abfca47e8ebf484a7ae5
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Feb 12 05:22:32 2026 +0400
+
+    feat: Add more granular logging to optimization solver
+
+commit a44294d268b342e77b4dfc0a0365045e91caae3a
+Author: Rahul Reddy <rahul@example.com>
+Date:   Wed Feb 25 09:09:37 2026 +0400
+
+    data: Add demand node sampling within zone polygons
+
+commit a7cb2337e83b0c18c1b3a4aef28bf7a7195cdcf6
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 7 01:57:25 2026 +0400
+
+    refactor: Standardize code structure and docstrings
+
+commit 790747719d94b823f6cbec2ffc8aef763ad63f7d
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Feb 22 01:21:05 2026 +0400
+
+    data: Implement procedural polygon generation for zones
+
+commit 3d8205f8c4fe9ece5ccaafc0477569b6da9822c3
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Feb 6 11:16:23 2026 +0400
+
+    style: Format code according to project guidelines
+
+commit fb03b729950b94fd4563a6f41a73b29e8f967d90
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sun Feb 22 14:19:12 2026 +0400
+
+    data: Calibrate population data to SCAD 2023 stats
+
+commit 1d3bc3c2a44c09f56912f3dccfd5564b283537ed
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Feb 13 19:44:05 2026 +0400
+
+    refactor: Standardize code structure and docstrings
+
+commit f4a54af1842a8e588ac3da5203ad514d552c001e
+Author: Rahul Reddy <rahul@example.com>
+Date:   Fri Feb 13 03:46:51 2026 +0400
+
+    data: Define Abu Dhabi zone boundaries and constants
+
+commit ee586005823c8f04e3b93615681ca239a4eee6fc
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 14 05:07:06 2026 +0400
+
+    refactor: Improve internal optimization loops
+
+commit e67c97b87f1c030b55c665ffd1daf9adb220c7d3
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Jan 29 14:16:01 2026 +0400
+
+    build: Define setup.py and project metadata
+
+commit f60cf5f0b3aabea08fd057bd5c2c2c09235b05d5
+Author: Rahul Reddy <rahul@example.com>
+Date:   Thu Feb 12 03:57:07 2026 +0400
+
+    style: Format code according to project guidelines
+
+commit fe840bf6d554ac80a92dc7bb20578a9131c42522
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Feb 7 14:02:28 2026 +0400
+
+    docs: Initial project README and motivation
+
+commit 30a67579f05aaab53213243a02ab7c85b9a36e00
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Jan 3 00:27:27 2026 +0400
+
+    perf: Optimize travel time matrix calculation performance
+
+commit 9d1d28c087f6589f2739c73d89eb2a266684a480
+Author: Rahul Reddy <rahul@example.com>
+Date:   Sat Jan 10 05:39:41 2026 +0400
+
+    init: Project structure and initial requirements.txt

@@ -1,0 +1,17 @@
+project_name: "Abu Dhabi Ambulance Optimization"
+version: 1.0.0
+
+optimization:
+  p_stations: 12
+  p_vehicles: 24
+  response_threshold_min: 8.0
+  time_limit_sec: 300
+  solver_type: "auto" # Will detect Gurobi, fallback to PuLP
+
+spatial_analysis:
+  morans_permutations: 999
+  knn_k: 6
+
+data:
+  crs: "EPSG:4326"
+  projection_crs: "EPSG:32640"

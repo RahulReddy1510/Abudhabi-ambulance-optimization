@@ -1,0 +1,6 @@
+# Sensitivity Analysis: Expanded infrastructure budget
+optimization:
+  p_stations: 18
+  p_vehicles: 36
+  response_threshold_min: 8.0
+  time_limit_sec: 400
